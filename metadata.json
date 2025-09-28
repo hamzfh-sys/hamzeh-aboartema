@@ -1,0 +1,5 @@
+{
+  "name": "Koton Daily Report",
+  "description": "A simple tool to generate daily sales reports for Koton branches. Users can select a branch, input sales data (QTY, AMT, TRANS), and the app will calculate key metrics (ATV, UPT, ARP) and format a message ready for copying.",
+  "requestFramePermissions": []
+}
